@@ -10,6 +10,8 @@ Recientemente estoy creando [**novelchangge**](https://sitiowebenigma.web.app), 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Html](https://img.shields.io/badge/Html-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Css](https://img.shields.io/badge/Css-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
